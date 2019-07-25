@@ -46,7 +46,7 @@ one place.
 
 Just a quick reminder for everyone who joined this lovely community recently: There’s an old blog out there which pretty much explains all synth engines very detailed. He must have spent a fair amount of time taking notes while tweaking:
 
- [http://op-101.blogspot.com 14](http://op-101.blogspot.de/)
+ [http://op-101.blogspot.com](http://op-101.blogspot.de/)
 
 It’s nicely explained for beginners, but I believe even some of our OP-1 experts here might find some detail they were not so sure about. With some engines, the author of the blog was not quite sure, but read for yourself…
 
@@ -145,7 +145,7 @@ DJ Scratch method #481: Phone effect.
 
 Four patches attached. One of these is featured in:
 
-[https://soundcloud.com/smosher/ceci-nest-pas-un-tournedisque 10](https://soundcloud.com/smosher/ceci-nest-pas-un-tournedisque)
+[https://soundcloud.com/smosher/ceci-nest-pas-un-tournedisque](https://soundcloud.com/smosher/ceci-nest-pas-un-tournedisque)
 
 starting at ~0:20.
 
@@ -157,7 +157,7 @@ A lot of different kinds of scratches can be done this way, but you need to expr
 
 I’m working on getting a certain kind of sound with a stereo phase applied to the bass band sweep on some drums. It’s not quite as pronounced as I would like it, but here is what I have so far:
 
-[https://soundcloud.com/smosher/808-stereo-bass-drumloop 14](https://soundcloud.com/smosher/808-stereo-bass-drumloop)
+[https://soundcloud.com/smosher/808-stereo-bass-drumloop](https://soundcloud.com/smosher/808-stereo-bass-drumloop)
 
 You will probably need headphones to notice much. I haven’t tried the speakers yet since it’s still early here.
 
@@ -340,7 +340,7 @@ My solution: I chose the sample synth engine, and a random preset. Then i turned
 
 You can hold a key down then hit drop to place the sample on a specific key  [@Cuckoo](https://op-forums.com/u/cuckoo)  has a tutorial on this.
 
- [https://www.youtube.com/watch?v=vJwU8utM7iE&ab_channel=cuckoomusic 10](https://www.youtube.com/watch?v=vJwU8utM7iE&ab_channel=cuckoomusic) .
+ [https://www.youtube.com/watch?v=vJwU8utM7iE&ab_channel=cuckoomusic](https://www.youtube.com/watch?v=vJwU8utM7iE&ab_channel=cuckoomusic) .
 
 Look around 21:22 and 22:24
 
@@ -369,7 +369,7 @@ I know stereo stuff on op-1 is the pain, but i like that stereo left-to-right lf
 ## Dynamic Stereo sound
 
 a melodic example:
- [soundcloud.com/timcosner/please 1](http://soundcloud.com/timcosner/please)
+ [soundcloud.com/timcosner/please](http://soundcloud.com/timcosner/please)
 
 
 1. in synth mode, use one of the sequencers to create a melody. I used the endless seq in the example above.
@@ -462,7 +462,7 @@ Results?  [https://soundcloud.com/heatseekerrr/d-synth-multimode-filter-test/s-P
 
 Hello, here is my trick for programing drums on the Endless Sequencer”:
 
-TAKE NOTES as shown on  [this picture 23](https://www.instagram.com/p/BF_lWZOKSq-/)
+TAKE NOTES as shown on  [this picture](https://www.instagram.com/p/BF_lWZOKSq-/)
 
 (image upload didn’t work)
 
@@ -541,7 +541,7 @@ I imported it into my OP-1, fine-tuned the samples so that there were no annoyin
 
 And, voilà: I can now easily play chord progressions as easily as I play the OP-1 drums, finding new and interesting combinations, record them to tape, add melodies on top, and have even more fun with this amazing little synth.
 
-I wasn’t able to add the file here, for some reason, nor would my website host allow me to upload an aiff file, but a zip file of my chords can be freely downloaded from  [www.galleryhakon.com/music/op1/pianochords.zip 1](http://www.galleryhakon.com/music/op1/pianochords.zip)
+I wasn’t able to add the file here, for some reason, nor would my website host allow me to upload an aiff file, but a zip file of my chords can be freely downloaded from  [www.galleryhakon.com/music/op1/pianochords.zip](http://www.galleryhakon.com/music/op1/pianochords.zip)
 
 For anyone interested, the chords in the file are, in order from left to right:
 
@@ -573,10 +573,10 @@ Even without the bend/crank/etc accessories, you can still select them. They’r
 
 ## Random sounds as ideas source
 
-Not sure if this counts as a tip but I find making a bunch of random sounds using the  [OP-1 Patch Randomizer 5](http://op-rand1.appspot.com/welcome.jsf)  and then analysing them after I’ve uploaded them to the OP-1 is a good way to get ideas on how to make new sounds myself from scratch. For example, I wouldn’t have thought of using an LFO to modulate the release on the ADSR envelope before.
+Not sure if this counts as a tip but I find making a bunch of random sounds using the  [OP-1 Patch Randomizer](http://op-rand1.appspot.com/welcome.jsf)  and then analysing them after I’ve uploaded them to the OP-1 is a good way to get ideas on how to make new sounds myself from scratch. For example, I wouldn’t have thought of using an LFO to modulate the release on the ADSR envelope before.
 
 Here’s what I do:
-1. Go to the  [OP-1 Patch Randomizer 5](http://op-rand1.appspot.com/welcome.jsf) site, just keep pressing the Next button until I get to the last screen and press the Download button.
+1. Go to the  [OP-1 Patch Randomizer](http://op-rand1.appspot.com/welcome.jsf) site, just keep pressing the Next button until I get to the last screen and press the Download button.
 2. This downloads a zip file to my computer. Unzip that file and it contains a hundred files named patch00.aif to patch99.aif.
 3. Connect my OP-1 via USB to my computer and put the OP-1 in Disk Mode (SHIFT + COM, press big 3). This brings up a drive called NONAME on my computer.
 4. I copy the hundred patch files to the synth > user folder on the OP-1’s drive.
@@ -707,7 +707,7 @@ I mostly make instrumental lo fi hop and have been experimenting with the tape s
 ## Tape jog wheel setup
 
 I always wanted to try manual tape recording, so I whipped this up really quick. It works great! Just fold the ends for clearance between knobs, and you’ve got yourself a tight little finger jog wheel like setup that snaps on to the knobs very well.
- [https://photos.app.goo.gl/fumzHhM9xJudaq3K6 ](https://photos.app.goo.gl/fumzHhM9xJudaq3K6)
+ [https://photos.app.goo.gl/fumzHhM9xJudaq3K6](https://photos.app.goo.gl/fumzHhM9xJudaq3K6)
 
 ## Arpeggiator drum fun
 
