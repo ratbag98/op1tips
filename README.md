@@ -4,7 +4,9 @@
 
 These were digested and slightly edited from OP Forums' [OP-1 Tips and Tricks](https://op-forums.com/t/op-1-tips-and-tricks/1241) thread.
 
-Feel free to fork this and do with as you wish. For the individual tips, see the original thread.
+Feel free to fork this and do with as you wish. 
+
+For credits for the individual tips, please see the original thread.
 
 I have no intention of ever editing this. Feel free to make push requests if you
 like, but it's really just a convenience to me so I've got the good stuff in
