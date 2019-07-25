@@ -36,8 +36,10 @@ one place.
 
 [OP-1 Sidechain FX with the Updated Tremolo LFO](https://youtu.be/qN--JpcVQC8)
 
-[LFO designer](http://eelcatch.com/lfo-buddy/) 
-[Explanation of designer](https://www.youtube.com/watch?v=oa-6hXD6pw0))
+[LFO designer](http://eelcatch.com/lfo-buddy/)
+
+[Explanation of LFO designer](https://www.youtube.com/watch?v=oa-6hXD6pw0)
+
 [Tape trick](https://www.youtube.com/watch?v=TCNheQupLOs)
 
 ## Original synths explained
