@@ -14,33 +14,39 @@ one place.
 
 ## Raw links with no explanatory text
 
-[Timestretching](http://www.youtube.com/watch?v=h_A8rqjpFMg&feature=player_embedded)
-
-[Scratching and lo-fi tips](http://www.youtube.com/watch?v=JYio7MqGm1k&feature=youtu.be)
+[Ambient Tutorial](https://www.youtube.com/watch?v=ovAXTMuKUr0)
 
 [Beat stutter tutorial](http://www.youtube.com/watch?v=gRYGro9OnZM&feature=player_embedded#) !
 
-[Making a track from scratch](http://www.youtube.com/watch?v=zz5PZb8ChZ0&feature=player_embedded)
+[Beats Dissected - great resource for learning about drum programming](https://www.attackmagazine.com/technique/beat-dissected/)
 
 [Beefy Unison Mode](https://www.youtube.com/watch?v=WluvjqG4fdw%20)
+
+[Cuckoo Drum kit tutorial](https://www.youtube.com/watch?v=vJwU8utM7iE&ab_channel=cuckoomusic)
+
+[Explanation of LFO designer](https://www.youtube.com/watch?v=oa-6hXD6pw0)
 
 [How to make TB-303 like sounds on the OP-1](https://www.youtube.com/watch?v=38Yv79tOrF4&list=UUt6gdew25P_fhbme2aWiN_A)
 
 [How to use the finger sequencer](https://www.youtube.com/watch?v=_-GYI3CogFs&list=UUt6gdew25P_fhbme2aWiN_A)
 
-[Cuckoo Drumkit tutorial](https://www.youtube.com/watch?v=vJwU8utM7iE&ab_channel=cuckoomusic)
+[LFO designer](http://eelcatch.com/lfo-buddy/)
+
+[Making a track from scratch](http://www.youtube.com/watch?v=zz5PZb8ChZ0&feature=player_embedded)
 
 [OP-1 Samples collection](https://op-1samples.bandcamp.com/ )
 
-[Beats Dissected - great resource for learning about drum programming](https://www.attackmagazine.com/technique/beat-dissected/)
-
 [OP-1 Sidechain FX with the Updated Tremolo LFO](https://youtu.be/qN--JpcVQC8)
 
-[LFO designer](http://eelcatch.com/lfo-buddy/)
-
-[Explanation of LFO designer](https://www.youtube.com/watch?v=oa-6hXD6pw0)
-
 [Tape trick](https://www.youtube.com/watch?v=TCNheQupLOs)
+
+[TE’s printable drum pattern templates for PO-12](https://teenageengineering.com/_img/565eeff4d24bc70300c8a6a9_original.pdf)
+
+[Time stretching](http://www.youtube.com/watch?v=h_A8rqjpFMg&feature=player_embedded)
+
+### Dead Raw links
+
+[Scratching and lo-fi tips](http://www.youtube.com/watch?v=JYio7MqGm1k&feature=youtu.be)
 
 ## Original synths explained
 
@@ -64,8 +70,7 @@ It’s nicely explained for beginners, but I believe even some of our OP-1 exper
 * you can lift/drop finger sequences
 * One thing in tombola sequencer: holding shift don’ t drop the notes in the sequencer, so you can play a melody while the sequencer is playing on hold…
 * In endless, one can delete steps while the sequence is playing with (shift) + ( < ). If you desire 24 steps but instead you accidentally put twenty five, you can delete the extra with the aforementioned combo.
-* [TE’s printable drum pattern templates for PO-12](https://teenageengineering.com/_img/565eeff4d24bc70300c8a6a9_original.pdf)
-* Have you tried arpeggio on drums yet? It’s great for quickly generating stuff like constantly shifting hihat patterns.
+* Have you tried arpeggio on drums yet? It’s great for quickly generating stuff like constantly shifting hi-hat patterns.
 * You can change the quality of the tape stop (4) when using the blue knob in conjunction with it.
 * You can  get some wild tape stutters with 6 and the white knob. (Make sure you hit the play button quick!)
 * you can fast forward the stutter effect tape trick.
@@ -78,7 +83,7 @@ It’s nicely explained for beginners, but I believe even some of our OP-1 exper
 ## Ambient Drone Machine
 
 1. Slow tempo way down (blue knob while on metronome screen).
-2. Lower tape speed way down (white knob while on metronome screen, iirc).
+2. Lower tape speed way down (white knob while on metronome screen, IIRC).
 3. Pick a Synth and give it a nice and long Attack and Release on the EG (button 2 below the screen)
 4. Shift + Blue knob for Poly
 5. Shift + Green knob to turn up Portamento/Glide
@@ -92,17 +97,13 @@ You can use a CWO or one of the delays on the Synth FX slot (button 3 in Synth m
 
 If you record this to Tape you will have to leave the Tape speed set low, but you can record to a DAW or something from the line/headphone out, too.
 
-## Another ambient drone
-
-[Drone video](https://www.youtube.com/watch?v=ovAXTMuKUr0)
-
 ## Percussive ambience
 
 For some really eerie percussive ambience, take a kick drum loop and a bass loop and run them through a light reverb and then through phone. Set tone really low, telematic to 99, and fiddle around with phonic.
 
 ## M1/M2 functionality
 
-Press the key while moving a knob to change a value on the master mixer or fx, “memorize” will display, wait till it’s red. when it is, that new position of the knob has been saved to the corresponding M-key
+Press the key while moving a knob to change a value on the master mixer or FX, “memorize” will display, wait till it’s red. when it is, that new position of the knob has been saved to the corresponding M-key
 
 M1 and M2 are stored as differences or changes to the default values, not as absolute parameters.
 E.g. if you’ve got Grid X-Y set to (20, 30) by default, and you change them to (10, 40) in M1, what’s actually stored in M1 is (-10,+10).
@@ -116,9 +117,9 @@ I guess this is less of a tip/trick, and more of an exploration into the working
 ## Glitchy
 
 make a synth sound,
-set Phone as the fx slot (pretty high settings on Baud, Phonic, and Telematic, Tone to taste), and
+set Phone as the FX slot (pretty high settings on Baud, Phonic, and Telematic, Tone to taste), and
 set your EG with a moderate Attack, some Delay, then zero Sustain and Release low.
-Use the Value LFO and start at 5, modulating the Blue fx knob (either FX or FXf for a free-running LFO).
+Use the Value LFO and start at 5, modulating the Blue FX knob (either FX or FXf for a free-running LFO).
 Adjust the value to taste and enjoy the glitching
  For best results, play the sounds manually to Tape
 
@@ -134,7 +135,6 @@ Step 4: throttle green all the way right
 Step 5: put finger on mic and gently rub the mic
 Step 6: play with blue and red encoders to get the right sound
 
-
 It takes only a tiny amount of change in the rubbing speed to get different pitch sounds. Be gentle but also a spazz, picture it as your girlfriend, faster = higher pitch sound generation, slower = lower pitch sound generation…
 
 Now eat your heart out DJ QBert
@@ -145,7 +145,7 @@ DJ Scratch method #481: Phone effect.
 
 Four patches attached. One of these is featured in:
 
-[https://soundcloud.com/smosher/ceci-nest-pas-un-tournedisque](https://soundcloud.com/smosher/ceci-nest-pas-un-tournedisque)
+[Sample on Soundcloud](https://soundcloud.com/smosher/ceci-nest-pas-un-tournedisque)
 
 starting at ~0:20.
 
@@ -157,7 +157,7 @@ A lot of different kinds of scratches can be done this way, but you need to expr
 
 I’m working on getting a certain kind of sound with a stereo phase applied to the bass band sweep on some drums. It’s not quite as pronounced as I would like it, but here is what I have so far:
 
-[https://soundcloud.com/smosher/808-stereo-bass-drumloop](https://soundcloud.com/smosher/808-stereo-bass-drumloop)
+[Loop on Soundcloud](https://soundcloud.com/smosher/808-stereo-bass-drumloop)
 
 You will probably need headphones to notice much. I haven’t tried the speakers yet since it’s still early here.
 
@@ -191,7 +191,7 @@ Similarly, if you want to use the speed of the tape trick slow-down as a final s
 * shift + > while playing : you preselect next loop
 * hit play button : the next loop begins the playing right where the previous one stopped ! This is awesome !!!
 
-## More tape
+## Yet More tape
 
 Just found out some tape mode magic: Shift + Blue encoder lets you pick up and move a tape snippet. In tape mode, you can use the Blue encoder to scroll through the tape, if you set the loop markers close, you can get more details. Now if you press shift and turn the encoder while the cursor highlights a short section on a track it sticks to the encoder and snaps to the left to match without a gap if there is another snippet on the track. if you move the blue encoder to the other direction while holding shift, it just moves the snippet around.
 
@@ -232,10 +232,10 @@ Not sure if this has been mentioned before but you can have a lot of extreme tap
 
 ## Yet more tape loop fun
 
-just made a fun discovery, i’ve never really gotten into the rewind/fast forward cuckoo style tape tricks because i resent having to come back in exactly on the downbeat or the loop regardless of where the chord progression “should be” in your head.
+Just made a fun discovery, i’ve never really gotten into the rewind/fast forward cuckoo style tape tricks because i resent having to come back in exactly on the downbeat or the loop regardless of where the chord progression “should be” in your head.
 turns out even though you can’t use the arrows to glitch the tape in tape stop, you can get a similar effect with the blue encoder. so you can wind all around the tape without having to worry about counting or coming back on the 1.
-quick demo:
- [https://www.youtube.com/watch?v=jXp8VhuEkqc ](https://www.youtube.com/watch?v=jXp8VhuEkqc)
+
+[Quick demo](https://www.youtube.com/watch?v=jXp8VhuEkqc)
 
 ## Possible duplicate loop trick
 
@@ -246,7 +246,7 @@ While working on the Body Operator battle I came across a helpful looping trick.
 I have a 4 bar pattern, which I’m looping in its entirety, and creating variations by muting, tape tricks etc. But for the next song section, I want to loop single bars within that 4 bar sequence.
 
 I struggled for a bit using the encoders to change the loop position on the fly, but was never fast enough.
-So, what I did was keep track 1 unchopped / scissored for the 4 bars, but chop track 2 into four 1 bar segments. Then:
+So, what I did was keep track 1 un-chopped / scissored for the 4 bars, but chop track 2 into four 1 bar segments. Then:
 
 * To loop the full 4 bars, select track 1 then shift+loop button.
 * To loop the single, currently-playing bar, select track 2 then shift+loop button.
@@ -266,7 +266,7 @@ You can even try erasing some of the steps, or repeating the same octave twice f
 
 ## Chorus
 
-I was searching for a chorus effect and read in my microsampler manual about the chorus effect where a lfo modulates the delay very subtlely. So I tried that with the value lfo plus the delay. But the delay on the the OP-1 still was too delayiey, so I chose CWO for that (working with grid changed the sound too much for me…)
+I was searching for a chorus effect and read in my micro-sampler manual about the chorus effect where a LFO modulates the delay very subtly. So I tried that with the value LFO plus the delay. But the delay on the the OP-1 still was too delay-ey, so I chose CWO for that (working with grid changed the sound too much for me…)
 
 CWO freq: 0 delay 28 feedback: 15 sideband: doesn’t really matter
 
@@ -287,7 +287,7 @@ In Poly mode, it will let you play chords like normally, but in all other modes,
 
 In the drum sampler, set the sample in loop mode use the white knob to shorten it. You can get a note repeat effect doing this. Even better, you can do this while a sequence is playing. For example, I copy a hi hat into another slot and enter the copied one into a sequence along with regular notes. Then edit the “repeat” effect to taste. Hear an example in the track below on the hi hats and tom fills.
 
- [https://soundcloud.com/sammyjams/lift-off ](https://soundcloud.com/sammyjams/lift-off)
+[Lift-off sample](https://soundcloud.com/sammyjams/lift-off)
 
 ## Pattern sequence change last bar
 
@@ -299,11 +299,11 @@ Only drawback is it’s pretty much impossible to ‘re-adjust the length so the
 
 I was running the drum sampler with a sequence in endless mode, and realized I can sample into the patch somewhat live, with the sequencer changing over from the old samples to whatever I was feeding it AS it recorded… Was able to generate some interesting rhythmic material this way, and it felt like a sort of granular sampling technique, loosely adhering to the sequencers rhythmic settings…
 
-> speaking of which, I just fed the sampler, sequencer running, back into itself via the ear. it sort-of beat-repeats. tried with both drum and the sampler, drum is more fun. glitchy and kind of random after a while, but the textures are great. I’m guessing, since turning knobs isnt an option at that point, maybe midi lfo or accelerator could do it even crazier.
+> speaking of which, I just fed the sampler, sequencer running, back into itself via the ear. it sort-of beat-repeats. tried with both drum and the sampler, drum is more fun. glitchy and kind of random after a while, but the textures are great. I’m guessing, since turning knobs isn't an option at that point, maybe MIDI LFO or accelerator could do it even crazier.
 
 Yeah, I played with a few feedback scenarios, and ultimately it got pretty convoluted, thus my less than scientific reporting of the effects! Try just recording for a second or two, or less… Depending on the material, you MIGHT end up with some rastor-noton-esque rhythmic clicks/cuts…
 
-## Fat detuned/supersaw
+## Fat detuned/super-saw
 
 1. Choose your synth engine. For good example demo i chosen cluster synth with all parameters tweaked to the left, no FX, no LFO.
 2. Make sure you are in POLY mode.
@@ -317,9 +317,9 @@ Yeah, I played with a few feedback scenarios, and ultimately it got pretty convo
 10. Make two clicks to the right with green encoder. I think you already got the idea.
 11. Make third line. You should see something like one fat horizontal line.
 12. With Shift + green set “/4” value. It will make note longer before it start to repeat.
-13. Switch to synth or tape mode and just play on keyboard. Yuippee!
+13. Switch to synth or tape mode and just play on keyboard. Yippee!
 
-With this method you lose sequencer and can’t play very long notes as they start to repeat at the end of sequence, but you have free fx slot and can tweak synth live. With Nitro filter and Element LFO (source = envelope, dest = nitro cutoff frequency) you can do some fun bass sounds.
+With this method you lose sequencer and can’t play very long notes as they start to repeat at the end of sequence, but you have free FX slot and can tweak synth live. With Nitro filter and Element LFO (source = envelope, dest = nitro cutoff frequency) you can do some fun bass sounds.
 
 ## Fat Pads
 
@@ -330,17 +330,17 @@ Doesn’t just work for pad, can give some good results for all sounds.
 
 ## Connecting to iPad
 
-I hooked my new op-1 with my iPad. Mainly just to map out possibilities like sequencing (auxy syncs perfectly!), but also for the animoog! I struggled a bit. First off: USB to cck iPad, and jack out from ipad to line in OP-1. Using the op-1 as midi controller.
+I hooked my new op-1 with my iPad. Mainly just to map out possibilities like sequencing (auxy syncs perfectly!), but also for the Animoog! I struggled a bit. First off: USB to cck iPad, and jack out from iPad to line in OP-1. Using the op-1 as midi controller.
 
-But, whenever i played the moog the op-1 would also play whatever preset was loaded. (Using the op-1 as CTRL in COM, disables TAPE.)
+But, whenever i played the Moog the op-1 would also play whatever preset was loaded. (Using the op-1 as CTRL in COM, disables TAPE.)
 
-My solution: I chose the sample synth engine, and a random preset. Then i turned gain(?) all the way down. (Shift+orange) in the synth-screen, NOT tape, obviously… Saved it to a quick slot, and then i can record the moog, thor, korg module etc. to tape! This was a bit roughly explained. English is not my first language, and I have just started using the OP-1!
+My solution: I chose the sample synth engine, and a random preset. Then i turned gain(?) all the way down. (Shift+orange) in the synth-screen, NOT tape, obviously… Saved it to a quick slot, and then i can record the Moog, Thor, Korg module etc. to tape! This was a bit roughly explained. English is not my first language, and I have just started using the OP-1!
 
 ## Drop sample on a key
 
-You can hold a key down then hit drop to place the sample on a specific key  [@Cuckoo](https://op-forums.com/u/cuckoo)  has a tutorial on this.
+You can hold a key down then hit drop to place the sample on a specific key. [@Cuckoo](https://op-forums.com/u/cuckoo)  has a tutorial on this.
 
- [https://www.youtube.com/watch?v=vJwU8utM7iE&ab_channel=cuckoomusic](https://www.youtube.com/watch?v=vJwU8utM7iE&ab_channel=cuckoomusic) .
+[Cuckoo music channel](https://www.youtube.com/watch?v=vJwU8utM7iE&ab_channel=cuckoomusic) .
 
 Look around 21:22 and 22:24
 
@@ -354,7 +354,7 @@ Also, that LFO has an envelope, so you can make evolving sounds, or create noisy
 
 ## Endless drum sequencer fun
 
-Consider you are using drums with endless sequencer, and it is running the sequence. If you switch to synth page [1] and start to tweak knobs, those tweakings will affect all drum sounds that currently playing in a sequence. For example, you turn blue knob (pitch) down, and while you turning it both bass drum and hihat was played, both will be pitched down. And if you press note keys, entire sequence will be pitched to corresponding key.
+Consider you are using drums with endless sequencer, and it is running the sequence. If you switch to synth page [1] and start to tweak knobs, those tweakings will affect all drum sounds that currently playing in a sequence. For example, you turn blue knob (pitch) down, and while you turning it both bass drum and hi-hat was played, both will be pitched down. And if you press note keys, entire sequence will be pitched to corresponding key.
 
 But if you press SHIFT+key, instead of pitching it will choose certain drum sound, and moreover, it will “focus” on that sound, and now only this sound will be affected by knobs. I find it veeery handy to tweak drum sequence live, or mute some sounds on the go by turning volume of with SHIFT+RED, or similar stuff. This also works with pattern and finger sequencers, but difference is that with pattern sequencer pressing SHIFT+NOTE will both choose the sound and triggers it simultaneously, so it can be less handy to tweak sounds, but you can add some sounds over the sequence.
 
@@ -364,17 +364,15 @@ Every time when i wanted to merge two tape tracks i had to do that fiddly resamp
 
 ## Panning
 
-I know stereo stuff on op-1 is the pain, but i like that stereo left-to-right lfo-type effect, and i found the way how to do it. Little nonintuitive, but very easy. So, when you made some sound on the tape, you can just lift it to the drum sampler, than implement Tremolo LFO. Set rate to speed you want to sound pan from channel to channel. Green parameter to 0, and white parameter to quite large value. I find that 40 or so works good. Then record this sound with LFO to the tape. Then change white parameter of the LFO to same negative value, e.g. -40. Record sound to another tape track. Now hard pan these two tracks to left and right. Volume of sound will vary in opposite phase on the left and right channels, making that panning effect. Works well!
+I know stereo stuff on op-1 is the pain, but i like that stereo left-to-right LFO-type effect, and i found the way how to do it. Little nonintuitive, but very easy. So, when you made some sound on the tape, you can just lift it to the drum sampler, than implement Tremolo LFO. Set rate to speed you want to sound pan from channel to channel. Green parameter to 0, and white parameter to quite large value. I find that 40 or so works good. Then record this sound with LFO to the tape. Then change white parameter of the LFO to same negative value, e.g. -40. Record sound to another tape track. Now hard pan these two tracks to left and right. Volume of sound will vary in opposite phase on the left and right channels, making that panning effect. Works well!
 
 ## Dynamic Stereo sound
 
-a melodic example:
- [soundcloud.com/timcosner/please](http://soundcloud.com/timcosner/please)
-
+[A melodic example on Soundcloud](http://soundcloud.com/timcosner/please)
 
 1. in synth mode, use one of the sequencers to create a melody. I used the endless seq in the example above.
 2. press shift+4 to change the LFO mode to random (the other LFOs can work, too).
-3. all the random LFO parameters should be tweaked to your desired effect. the destination should be envelope/adsr.
+3. all the random LFO parameters should be tweaked to your desired effect. the destination should be envelope/ADSR.
 4. record the same sequence to tape on two different channels.
 5. pan the channels hard to increase the stereo depth. the stereo effect
 
@@ -384,11 +382,9 @@ should bounce all over the place in accordance to your panning and LFO settings.
 
 Ok, some time ago i made a couple of videos where i try to explain how to use external audio signal as an LFO (Element LFO with mic icon). I didn’t share it, but now i think it is not obvious and it can be useful for someone, so i decided to share.
 
-In the first video i try to explain what’s going on using Pure Data:
- [https://www.youtube.com/watch?v=WtNLNqoGaKc](https://www.youtube.com/watch?v=WtNLNqoGaKc)
+In the [first video](https://www.youtube.com/watch?v=WtNLNqoGaKc) I try to explain what’s going on using Pure Data.
 
-In the second i just use external synth on ipad (Waldorf Nave), which acts as LFO.
- [https://www.youtube.com/watch?v=rF3i6hhQTtc](https://www.youtube.com/watch?v=rF3i6hhQTtc)
+In the [second video](https://www.youtube.com/watch?v=rF3i6hhQTtc) I just use external synth on ipad (Waldorf Nave), which acts as LFO.
 
 ## Loop length selection
 
@@ -404,7 +400,7 @@ With my tracks set up in this way, I can easily change the loop length while mut
 
 ## Mellow tape
 
-I used this in an ambienty thing I did several months ago. But for a chilled and mellow vibe, simply slow the tape down after recoding. For an extra challenge, record the part faster before slowing it down if you don’t like the notes when it’s slowed.
+I used this in an ambient-y thing I did several months ago. But for a chilled and mellow vibe, simply slow the tape down after recoding. For an extra challenge, record the part faster before slowing it down if you don’t like the notes when it’s slowed.
 Great to record pads into something else you plan to add parts to afterward so you can better match notes/chords/etc.
 
 ## Radio fun
@@ -417,7 +413,7 @@ Pressing down the green knob will autotune to the nearest station, allowing for 
 
 > How do ya’ll build drum kits with various sounds from the different preset kits? Like if I wanted a kick drum from this kit and the snare from that kit to use in the same sequence…?
 
-Overdub different layers of drums. Eg, I might decide to do a breakbeat and have a rough idea of how that might sound in my head. So I’ll just enter the kicks into a sequence of their own and lay it down to tape. And then add some 1/16 beat hats in their own sequence with some funny lfo effect or something. Then lay down a snare with some reverb or something, etc.
+Overdub different layers of drums. Eg, I might decide to do a breakbeat and have a rough idea of how that might sound in my head. So I’ll just enter the kicks into a sequence of their own and lay it down to tape. And then add some 1/16 beat hats in their own sequence with some funny LFO effect or something. Then lay down a snare with some reverb or something, etc.
 
 and
 
@@ -437,7 +433,7 @@ Want a distorted bass drum? Stick an effect on it, drop it on the tape and build
 
 ## Sketch sequencer as source of ideas
 
-Find 4 bars (or thereabouts) that you like from a fully arranged idea/song that you’ve got on OP tape. Sample the bars out in to drum sampler. Set every key’s playback option to ‘loop’. Open/activate Sketch sequencer. the ‘Marx’ picture works good for this (reluctant to delete it now…). close sequencer page and start messing with keys. Instant goldmine for random/insane loops. Used this technique and from one drumkit and the marx drawing on the sequencer I ended up with the bones of 5 new songs in 20 minutes…
+Find 4 bars (or thereabouts) that you like from a fully arranged idea/song that you’ve got on OP tape. Sample the bars out in to drum sampler. Set every key’s playback option to ‘loop’. Open/activate Sketch sequencer. the ‘Marx’ picture works good for this (reluctant to delete it now…). close sequencer page and start messing with keys. Instant goldmine for random/insane loops. Used this technique and from one drum kit and the Marx drawing on the sequencer I ended up with the bones of 5 new songs in 20 minutes…
 
 ## Multimode filter
 
@@ -456,13 +452,13 @@ Delay - 84
 Fdback - 65
 Sideband - 4 red lines filled, just use your ears. You want the echos slightly out of tune.
 
-Results?  [https://soundcloud.com/heatseekerrr/d-synth-multimode-filter-test/s-PKFdE](https://soundcloud.com/heatseekerrr/d-synth-multimode-filter-test/s-PKFdE)
+Results?  [Filter test on Soundcloud](https://soundcloud.com/heatseekerrr/d-synth-multimode-filter-test/s-PKFdE)
 
 ## Programming drum sequences
 
 Hello, here is my trick for programing drums on the Endless Sequencer”:
 
-TAKE NOTES as shown on  [this picture](https://www.instagram.com/p/BF_lWZOKSq-/)
+TAKE NOTES as shown on [this picture](https://www.instagram.com/p/BF_lWZOKSq-/)
 
 (image upload didn’t work)
 
@@ -478,15 +474,15 @@ Don’t remember if this was a feature of the non-beta OS but you can now stick 
 
 ## Time stretching with the G sensor
 
-[Chris Sunberg on Instagram: “Always finding new silly things this baby can do! @teenageengineering #granularsynthesis #OP1 #tonightsthenight #feelslikeperfecttiming”](https://www.instagram.com/p/BIx2qrgDMnW/?taken-by=vanillasun)
+[Video on Instagram](https://www.instagram.com/p/BIx2qrgDMnW/?taken-by=vanillasun)
 
 Time-stretching with the G force sensor is pretty radical! Settings are much like 5StarNomads at the beginning of this glorious thread, although depth is turned to -100 and sample playback is Play to End. It almost acts as a granular synth when tilted at the right angle, but is quite finicky!
 
-I’ve got the g force sensor changing the playback of samples (foreward and backwards) by flipping it upside down.
+I’ve got the g force sensor changing the playback of samples (forward and backwards) by flipping it upside down.
 Sample settings;
 Set the start and end to whatever you like, then turn the red knob till you’re at the arrow with a line
-Lfo settings;
-Choose element, G force, depth -100, synth/drum as destination, and the parameter is inbetween the green and blue dots.
+LFO settings;
+Choose element, G force, depth -100, synth/drum as destination, and the parameter is in between the green and blue dots.
 Now when you press a key you can vary the direction samples play by flipping OP upside down. There is a sweet spot around the middle that you can get very slow playback and glitchy FX.
 
 ## Snare programming with endless
@@ -509,7 +505,7 @@ It is my favorite sequencer and I don’t really fudge with the others much.
 
 ## Mic-soundscapes
 
-You can build great soundscapes by gently blowing in and around the mic, or rubbing your finger on it. You need a big big reverb and why not some delay though. I’ve also had fun result in doing that plus turning the radio on for half of a second or even less… Again you’d better have a big reverb plugged into the OP1 but it makes for great layers of ambiant/strange atmosphere.
+You can build great soundscapes by gently blowing in and around the mic, or rubbing your finger on it. You need a big big reverb and why not some delay though. I’ve also had fun result in doing that plus turning the radio on for half of a second or even less… Again you’d better have a big reverb plugged into the OP1 but it makes for great layers of ambient/strange atmosphere.
 
 ## Vinyl emulation
 
@@ -519,7 +515,7 @@ I’m a huge fan of the lo-fi hip hop scene, so I’m sharing this with other us
 
 Below is a track which I produced quickly just to demonstrate the sound which was achieved after experimenting. It’s nothing complex, but I believe it demonstrates a sound very close to what can be achieved with an SP-303! Let me know what you guys think.
 
- [https://soundcloud.com/redw6lf/op-1-vinyl-sim ](https://soundcloud.com/redw6lf/op-1-vinyl-sim)
+[Sample on Soundcloud](https://soundcloud.com/redw6lf/op-1-vinyl-sim)
 
 [Original Link, with follow-ups](https://op-forums.com/t/sp303-vinyl-sim-emulation-on-op-1/4861)
 
@@ -541,7 +537,7 @@ I imported it into my OP-1, fine-tuned the samples so that there were no annoyin
 
 And, voilà: I can now easily play chord progressions as easily as I play the OP-1 drums, finding new and interesting combinations, record them to tape, add melodies on top, and have even more fun with this amazing little synth.
 
-I wasn’t able to add the file here, for some reason, nor would my website host allow me to upload an aiff file, but a zip file of my chords can be freely downloaded from  [www.galleryhakon.com/music/op1/pianochords.zip](http://www.galleryhakon.com/music/op1/pianochords.zip)
+I wasn’t able to add the file here, for some reason, nor would my website host allow me to upload an AIFF file, but a zip file of my chords can be freely downloaded from [Gallery Hakon](http://www.galleryhakon.com/music/op1/pianochords.zip)
 
 For anyone interested, the chords in the file are, in order from left to right:
 
@@ -549,19 +545,13 @@ F(add9), fm7, G7, gm7, amsus2, Ab(add9), Bb, C, cm, dm, d dim, em, F, fm, G, gm,
 
 ## Distorted driven sounds
 
-so i just discovered how to create distorted driven sounds with the master limiter. the input level at maximum will give a clean maximized hard limiting with around 50 drive but roll the input level (blue green) down & you get distorted drive. maybe someone can explain but ive never used input control like this on any other limiter or compressor vst. maybe some auto make-up gain/drive reduction. hard to tell. anyone know of any similar vst??
+so i just discovered how to create distorted driven sounds with the master limiter. the input level at maximum will give a clean maximized hard limiting with around 50 drive but roll the input level (blue green) down & you get distorted drive. maybe someone can explain but I've never used input control like this on any other limiter or compressor VST. maybe some auto make-up gain/drive reduction. hard to tell. anyone know of any similar VST??
 
 ## Add sound to existing drum kit
 
-Don’t know if this has already been mentioned… Sometimes you just want to add one or two sounds to an existing drumkit. Since classic lift & drop does not work here, I discovered a workaround for this:
+Don’t know if this has already been mentioned… Sometimes you just want to add one or two sounds to an existing drum kit. Since classic lift & drop does not work here, I discovered a workaround for this:
 
-Lift the drumkit and drop it on tape. CAUTION: the beginning contains a lot of noise, it’s the meta data of the drumkit! Don’t modify that part! Go to the end of the tape portion, and record the sounds you want to add to the drumkit (you may also cut some existing sounds you don’t need to get some extra sample time). Be careful not to exceed the maximum drumkit sample length of 12 seconds. When done, join the new recorded slices to the rest of the drumkit (SHIFT + CUT). Then lift and drop back into DRUM mode. Now you just need to map the new sounds to the keys (adjust sample start and end points, etc.).
-
-## Violin playing technique
-
-This was something I was messing around with today - holding the OP in one hand, kind of like a violin, and using the Element LFO as an expressive kind of vibrato. This patch was made in Cluster
-
-[https://www.instagram.com/p/BPRXm_GBTor/?taken-by=mlbstrd](https://www.instagram.com/p/BPRXm_GBTor/?taken-by=mlbstrd)
+Lift the drum kit and drop it on tape. CAUTION: the beginning contains a lot of noise, it’s the meta data of the drum kit! Don’t modify that part! Go to the end of the tape portion, and record the sounds you want to add to the drum kit (you may also cut some existing sounds you don’t need to get some extra sample time). Be careful not to exceed the maximum drum kit sample length of 12 seconds. When done, join the new recorded slices to the rest of the drum kit (SHIFT + CUT). Then lift and drop back into DRUM mode. Now you just need to map the new sounds to the keys (adjust sample start and end points, etc.).
 
 ## Faux delay
 
@@ -576,8 +566,9 @@ Even without the bend/crank/etc accessories, you can still select them. They’r
 Not sure if this counts as a tip but I find making a bunch of random sounds using the  [OP-1 Patch Randomizer](http://op-rand1.appspot.com/welcome.jsf)  and then analysing them after I’ve uploaded them to the OP-1 is a good way to get ideas on how to make new sounds myself from scratch. For example, I wouldn’t have thought of using an LFO to modulate the release on the ADSR envelope before.
 
 Here’s what I do:
+
 1. Go to the  [OP-1 Patch Randomizer](http://op-rand1.appspot.com/welcome.jsf) site, just keep pressing the Next button until I get to the last screen and press the Download button.
-2. This downloads a zip file to my computer. Unzip that file and it contains a hundred files named patch00.aif to patch99.aif.
+2. This downloads a zip file to my computer. Unzip that file and it contains a hundred files named `patch00.aif` to `patch99.aif`.
 3. Connect my OP-1 via USB to my computer and put the OP-1 in Disk Mode (SHIFT + COM, press big 3). This brings up a drive called NONAME on my computer.
 4. I copy the hundred patch files to the synth > user folder on the OP-1’s drive.
 5. Put the OP-1 back into OP-1 mode (SHIFT + COM, press big 1), then go to a synth engine (press small 1).
@@ -636,8 +627,8 @@ when you have a sample in drum mode just press lift and drop. the sample vol wil
 2. record to tape
 3. cut and paste a short section into the sampler
 4. adjust envelops to max (straight square)
-5. play thes arpeggio-sample with the arpeggiator on (experiment with another pattern, setting)
-6. Only part of the sample will play but with interessting and fresh new arpeggio sounds.
+5. play these arpeggio-sample with the arpeggiator on (experiment with another pattern, setting)
+6. Only part of the sample will play but with interesting and fresh new arpeggio sounds.
 
 ## LFO dynamic delay
 
@@ -645,7 +636,7 @@ when you have a sample in drum mode just press lift and drop. the sample vol wil
 * Increase the ADSR release so it has a bit of tail to it
 * put an effect on the effect slot (I used reverb)
 * on the LFO slot, use a “value” type
-* set the speed to 3oclock, the amount to 30, the destination to waveform playback (the faded blue dot)
+* set the speed to 3o'clock, the amount to 30, the destination to waveform playback (the faded blue dot)
 * when you play legato you won’t really hear the LFO, but when you release the key (allowing the release to play out), the LFO will reverse the playback and give a delay-like effect
 * you can then adjust the time to suit your tempo/vibe
 
@@ -671,7 +662,7 @@ You can use wheel LFO to detune, amplify and even distort any patch. Just dial i
 
 ## Even Lazier Patch (De)tuning and Amplification
 
-If your patch doesn’t have an infinite sustain you can use Tremolo for a similar trick in a fashion that is saveable. Dial LFO rate to the lowest setting and play with pitch/amplitude settings.
+If your patch doesn’t have an infinite sustain you can use Tremolo for a similar trick in a fashion that is save-able. Dial LFO rate to the lowest setting and play with pitch/amplitude settings.
 
 ## Weird Patch (De)tuning and Amplification
 
@@ -702,12 +693,11 @@ Anyway, issues aside, some of the sounds you can get this way are pretty wild. S
 
 ## Transitions and scratches
 
-I mostly make instrumental lo fi hop and have been experimenting with the tape stop, reverse and stutter keys in conjunction with rewind/fast forward. You can get some wicked transition/scratch effects by hitting either rr/ff and stutter at the same time, then letting go of stutter just before the beat and immediately hitting play to restart the current loop/jump to the next loop. You can time this with a bit of reverse or stop before of afterwards to spice things up a bit. Tapping between rr/ff at the end of a bar with reverse/stutter held down can also yield some interesting results, as can rolling your fingers across stop/reverse/stutter and back again while holidng or toggling between rr/ff. There’s a lot of precision required to make it sound tight but you can get some really wicked sounds out of the tools that we’re starting to sound super repetitive to me. My favourite trick is to start a track with a sample, play it nearly to the end of the loop, hit rewind, then hit play on the beat to restart the loop and toggle the drum track on the second beat so it comes in with a nice snare smack. I’m working on a beat tape right now featuring all of these tricks so I’ll post it when it’s finished
+I mostly make instrumental lo fi hop and have been experimenting with the tape stop, reverse and stutter keys in conjunction with rewind/fast forward. You can get some wicked transition/scratch effects by hitting either rw/ff and stutter at the same time, then letting go of stutter just before the beat and immediately hitting play to restart the current loop/jump to the next loop. You can time this with a bit of reverse or stop before of afterwards to spice things up a bit. Tapping between rw/ff at the end of a bar with reverse/stutter held down can also yield some interesting results, as can rolling your fingers across stop/reverse/stutter and back again while holding or toggling between rw/ff. There’s a lot of precision required to make it sound tight but you can get some really wicked sounds out of the tools that we’re starting to sound super repetitive to me. My favourite trick is to start a track with a sample, play it nearly to the end of the loop, hit rewind, then hit play on the beat to restart the loop and toggle the drum track on the second beat so it comes in with a nice snare smack. I’m working on a beat tape right now featuring all of these tricks so I’ll post it when it’s finished
 
 ## Tape jog wheel setup
 
-I always wanted to try manual tape recording, so I whipped this up really quick. It works great! Just fold the ends for clearance between knobs, and you’ve got yourself a tight little finger jog wheel like setup that snaps on to the knobs very well.
- [https://photos.app.goo.gl/fumzHhM9xJudaq3K6](https://photos.app.goo.gl/fumzHhM9xJudaq3K6)
+I always wanted to try manual tape recording, so I whipped this up really quick. It works great! Just fold the ends for clearance between knobs, and you’ve got yourself a tight little finger jog wheel like setup that snaps on to the knobs very well. [Photo](https://photos.app.goo.gl/fumzHhM9xJudaq3K6)
 
 ## Arpeggiator drum fun
 
@@ -731,4 +721,11 @@ Recording the white knob works too.
 ## Scratching with the CWO
 
 The CWO can be pretty useful for fake scratching sounds. Using an organic sound (something not too synth-ey), set the frequency and feedback at zero, and fiddle with the delay knob while playing some simple melodies. With a bit of patience (several takes), chopping/rearranging, and sheer luck, some pretty cool results can be achieved. This link is a good example.
- [https://soundcloud.com/user-388190003/sleap-on-it](https://soundcloud.com/user-388190003/sleap-on-it)
+
+[Sample on Soundcloud](https://soundcloud.com/user-388190003/sleap-on-it)
+
+## Violin playing technique
+
+This was something I was messing around with today - holding the OP in one hand, kind of like a violin, and using the Element LFO as an expressive kind of vibrato. This patch was made in Cluster
+
+**dead link** [https://www.instagram.com/p/BPRXm_GBTor/?taken-by=mlbstrd](https://www.instagram.com/p/BPRXm_GBTor/?taken-by=mlbstrd)
