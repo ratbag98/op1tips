@@ -79,6 +79,7 @@ It’s nicely explained for beginners, but I believe even some of our OP-1 exper
 * to transpose the finger sequencer (or other) use shift + Metronome to detune the master input
 * Instead of importing tuned instruments (e.g. pianos, guitars, etc) using the Synth Sampler, use the Drum Sampler so that you can sample each note in a two-octave range.
 * pattern sequencer can be played “live” without using HOLD: just play a drum pattern keep the key pressed and switch to the sequencer without moving your finger from the key. Now you can tweak the pattern parameters
+* you can lift/drop T1-T4 between patches. Makes it super easy to copy LFO or FX to another patch.
 
 ## Ambient Drone Machine
 
