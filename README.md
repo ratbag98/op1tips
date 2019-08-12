@@ -4,13 +4,16 @@
 
 These were digested and slightly edited from OP Forums' [OP-1 Tips and Tricks](https://op-forums.com/t/op-1-tips-and-tricks/1241) thread.
 
-Feel free to fork this and do with it as you wish.
-
 For credits for the individual tips, please see the original thread.
 
-I have no intention of ever editing this. Feel free to make push requests if you
-like, but it's really just a convenience to me so I've got the good stuff in
-one place.
+I had no intention of ever editing this, but the traffic on the tips thread is sufficiently low that I can keep up. Feel free to make pull requests if you make some awesome modifications (ideas: translating some English-as-a-third-language-isms; creating a hierarchical structure with a contents page; converting the whole thing into a Github wiki; merge with PO, OP-Z, Oplab and Modular tips lists to create one list to rule them all). Alternatively just fork this repository and plough your own furrow.
+
+## Changes since initial publication
+
+Formatting, indentation, whitespace rationalized.
+Egregious Markdown mistakes corrected.
+Identified some dead links.
+Added latest tip.
 
 ## Raw links with no explanatory text
 
