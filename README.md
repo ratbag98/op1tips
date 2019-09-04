@@ -10,10 +10,7 @@ I had no intention of ever editing this, but the traffic on the tips thread is s
 
 ## Changes since initial publication
 
-Formatting, indentation, whitespace rationalized.
-Egregious Markdown mistakes corrected.
-Identified some dead links.
-Added latest tip.
+Formatting, indentation, whitespace rationalized; Egregious Markdown mistakes corrected; Identified some dead links; Added latest tip.
 
 ## Raw links with no explanatory text
 
@@ -339,6 +336,12 @@ I hooked my new op-1 with my iPad. Mainly just to map out possibilities like seq
 But, whenever i played the Moog the op-1 would also play whatever preset was loaded. (Using the op-1 as CTRL in COM, disables TAPE.)
 
 My solution: I chose the sample synth engine, and a random preset. Then i turned gain(?) all the way down. (Shift+orange) in the synth-screen, NOT tape, obviously… Saved it to a quick slot, and then i can record the Moog, Thor, Korg module etc. to tape! This was a bit roughly explained. English is not my first language, and I have just started using the OP-1!
+
+## Connecting to iPad Pro with USB-C
+
+I thought I’d resurrect this old thread with some information on the iPad Pro. With iOS13 and an iPad pro, you can use a USB-C to USB-mini cable (like this $4.75 little one https://www.monoprice.com/product?p_id=14832). No dongle required.
+
+When you plug the OP-1 in and turn on disk mode it will appear in the Files app, and you can copy files around. You can even “play” the tape tracks while they are still on the OP-1. Super handy for moving samples from the OP-1 to iOS based music apps.
 
 ## Drop sample on a key
 
