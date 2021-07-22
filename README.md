@@ -146,7 +146,7 @@ DJ Scratch method #481: Phone effect.
 
 Four patches attached. One of these is featured in:
 
-[Sample on Soundcloud](https://soundcloud.com/smosher/ceci-nest-pas-un-tournedisque)
+DEAD_LINK: [Sample on Soundcloud](https://soundcloud.com/smosher/ceci-nest-pas-un-tournedisque)
 
 starting at ~0:20.
 
@@ -158,7 +158,7 @@ A lot of different kinds of scratches can be done this way, but you need to expr
 
 I’m working on getting a certain kind of sound with a stereo phase applied to the bass band sweep on some drums. It’s not quite as pronounced as I would like it, but here is what I have so far:
 
-[Loop on Soundcloud](https://soundcloud.com/smosher/808-stereo-bass-drumloop)
+DEAD_LINK: [Loop on Soundcloud](https://soundcloud.com/smosher/808-stereo-bass-drumloop)
 
 You will probably need headphones to notice much. I haven’t tried the speakers yet since it’s still early here.
 
@@ -288,7 +288,7 @@ In Poly mode, it will let you play chords like normally, but in all other modes,
 
 In the drum sampler, set the sample in loop mode use the white knob to shorten it. You can get a note repeat effect doing this. Even better, you can do this while a sequence is playing. For example, I copy a hi hat into another slot and enter the copied one into a sequence along with regular notes. Then edit the “repeat” effect to taste. Hear an example in the track below on the hi hats and tom fills.
 
-[Lift-off sample](https://soundcloud.com/sammyjams/lift-off)
+DEAD_LINK: [Lift-off sample](https://soundcloud.com/sammyjams/lift-off)
 
 ## Pattern sequence change last bar
 
@@ -339,7 +339,7 @@ My solution: I chose the sample synth engine, and a random preset. Then i turned
 
 ## Connecting to iPad Pro with USB-C
 
-I thought I’d resurrect this old thread with some information on the iPad Pro. With iOS13 and an iPad pro, you can use a USB-C to USB-mini cable (like this $4.75 little one https://www.monoprice.com/product?p_id=14832). No dongle required.
+I thought I’d resurrect this old thread with some information on the iPad Pro. With iOS13 and an iPad pro, you can use a USB-C to USB-mini cable (like this $4.75 little one [Monoproce site](https://www.monoprice.com/product?p_id=14832) ). No dongle required.
 
 When you plug the OP-1 in and turn on disk mode it will appear in the Files app, and you can copy files around. You can even “play” the tape tracks while they are still on the OP-1. Super handy for moving samples from the OP-1 to iOS based music apps.
 
@@ -522,7 +522,7 @@ I’m a huge fan of the lo-fi hip hop scene, so I’m sharing this with other us
 
 Below is a track which I produced quickly just to demonstrate the sound which was achieved after experimenting. It’s nothing complex, but I believe it demonstrates a sound very close to what can be achieved with an SP-303! Let me know what you guys think.
 
-[Sample on Soundcloud](https://soundcloud.com/redw6lf/op-1-vinyl-sim)
+DEAD_LINK: [Sample on Soundcloud](https://soundcloud.com/redw6lf/op-1-vinyl-sim)
 
 [Original Link, with follow-ups](https://op-forums.com/t/sp303-vinyl-sim-emulation-on-op-1/4861)
 
