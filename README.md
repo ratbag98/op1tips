@@ -736,3 +736,38 @@ The CWO can be pretty useful for fake scratching sounds. Using an organic sound 
 This was something I was messing around with today - holding the OP in one hand, kind of like a violin, and using the Element LFO as an expressive kind of vibrato. This patch was made in Cluster
 
 **dead link** [https://www.instagram.com/p/BPRXm_GBTor/?taken-by=mlbstrd](https://www.instagram.com/p/BPRXm_GBTor/?taken-by=mlbstrd)
+
+## Test settings for pitching samples
+
+* Phonic (green knob) to 99
+* Baud (white knob) to 00
+* Telematic (red knob) to 99
+* and shift + blue to adjust the pitch
+
+## Stereo bounce
+
+1. Start with 3 tracks. E.g track 1 drums, track 2 bass, track 3 synth.
+2. Pan and level the tracks the way you would like them to be (can not be altered later)
+3. Go to mixer page 4 and kill the left track (blue all the way down).
+4. Go to track 4 in tape, activate ear
+5. Record / bounce with ear the 3 tracks to track 4. This will be your right channel track.
+6. Now make sure track 4 is empty again by either lifting track 4 and keeping it in the “lifting-buffet” or paste it somewhere else on an empty part of the tape.
+7. Repeat step 3, 4 and 5 but this time kill the right master track (green all the way down, open up blue).
+8. Retrieve your right channel track by dropping it in channel 3 for example (you’ll lose whatever is on there)
+9. Now you’ve got your right channel on 3 and your left on 4. Hard pan track 3 to the right and track 4 to the left. If you solo these two tracks you should hear the same as in step 2.
+10. You can now clean out track 1 and/or 2 and record a new voice. Pan and level it the way you like.
+11. Kill master left again with blue (be aware that if you use gain/release compression at this stage you will compress the track and possibly compress it again if you use compression in your final mix. So it will sound louder than you heard before)
+12. Mute all the other tracks except the one you want to record
+13. overdub to track 3 with ear
+14. Repeat step 11, 12 and 13 for left (kill green, open blue)
+15. You can clean out the track you just overdubbed and start again from step 10.
+
+The result is that track 3 and 4 are going to be you “master” stereo tracks. Just like in the old tascam days.
+
+### Things to consider:
+
+* if you overdub check the EQing and FX that are active on the master mixing. Do you want these to apply only to the track your “pasting” on your master tracks?
+* you can lift-drop track 3 or 4 when you’re overdubbing if you want to be able to undo the change if you screw up somehow. (But you can not hear the result of both overdubs while keeping this undo function, unless you paste one of the two on an unused part of the tape)
+* you will not be able to change anything about the track you pasted on the master track (for example if you want to fine tune it later in a DAW than this is not a good method)
+* because you have 2 empty tracks each time you could also first overdub from 1 to 2 with EQ/fx. And than overdub from 2 to 3 and 4 with a second EQ/fx.
+*it takes quite some time …
